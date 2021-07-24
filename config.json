@@ -1,4 +1,7 @@
 {
     "inviteDomain": "beeooro.com/invite",
-    "backgroundColor": "#fff"
+    "backgroundColor": "#fff",
+    "backgroundImageUrl":"http://www.beeooro.com/img/baas-bg.jpg",
+    "logoClickUrl":"",
+    "logoImageUrl":""
 }
